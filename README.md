@@ -1,5 +1,5 @@
-# Dedsec-Proxychain
-Update your ProxyChain configuration file with ease using our user-friendly tool. Simplify the process of adding new proxy. Stay secure and anonymous with ProxyChain Updater Tool.
+<h1 align="center"> DEDSEC PROXYCHAIN </h1>
+<h4 align="center"> Update your ProxyChain configuration file with ease using our user-friendly tool. Simplify the process of adding new proxy. Stay secure and anonymous with ProxyChain Updater Tool. </h4>
 
 ### INSTALLATION 
 * sudo apt-get install proxychains
@@ -17,5 +17,6 @@ Update your ProxyChain configuration file with ease using our user-friendly tool
 ### LANGUAGE 
 * python
 
-# disclaimer:
-  I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
