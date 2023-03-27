@@ -8,7 +8,7 @@
 * chmod +x dedsec-proxychain.py
 * sudo python3 dedsec-proxychain.py
 
-### TESTED ON FOLLOWING:-
+### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
